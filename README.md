@@ -6,4 +6,6 @@
 https://raw.githubusercontent.com/eCaptcha/EmojiApi/main/EmojiApi.json
 ```
 
+🦄You Have Use Our Public Api For Your Projects To.
+
 ©️Copyright 2021 eCaptcha
